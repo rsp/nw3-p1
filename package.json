@@ -1,0 +1,20 @@
+{
+  "name": "nw3-p1",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo All tests passed! && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsp/nw3-p1.git"
+  },
+  "keywords": [],
+  "author": "Rafał Pocztarski <r.pocztarski@gmail.com> (http://pocztarski.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rsp/nw3-p1/issues"
+  },
+  "homepage": "https://github.com/rsp/nw3-p1#readme"
+}
