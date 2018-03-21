@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo All tests passed! && exit 1"
+    "test": "tap tests/*.js"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/rsp/nw3-p1/issues"
   },
-  "homepage": "https://github.com/rsp/nw3-p1#readme"
+  "homepage": "https://github.com/rsp/nw3-p1#readme",
+  "dependencies": {
+    "tap": "^11.1.3"
+  }
 }
